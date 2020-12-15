@@ -1,1 +1,1 @@
-# ejercicios-laboratorio-
+# ejercicios_laboratorio
